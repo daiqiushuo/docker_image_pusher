@@ -5,9 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-web
-worker
-api
+langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.0
 
 
 
