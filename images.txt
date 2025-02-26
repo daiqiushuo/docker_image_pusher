@@ -1,2 +1,6 @@
-langgenius/dify-api
-langgenius/dify-web
+ghcr.io/pezzolabs/pezzo/server:latest
+clickhouse/clickhouse-server:23-alpine
+postgres:15-alpine3.17
+supertokens/supertokens-postgresql:5.0
+redis/redis-stack-server:7.2.0-v0
+nsmithuk/local-kms:latest
