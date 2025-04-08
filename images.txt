@@ -1,2 +1,1 @@
-ghcr.io/pezzolabs/pezzo/console:latest
-ghcr.io/pezzolabs/pezzo/proxy:latest
+ollama/ollama
