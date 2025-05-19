@@ -1,1 +1,1 @@
-ollama/ollama
+moby/buildkit:buildx-stable-1
